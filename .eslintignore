@@ -1,0 +1,4 @@
+dist/*
+@types/*
+emojis.json
+tsconfig.tsbuildinfo
